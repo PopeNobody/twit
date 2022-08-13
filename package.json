@@ -1,0 +1,11 @@
+{
+  "name": "twit",
+  "version": "1.0.0",
+  "description": "Tweet and Follow Users from the CLI",
+  "main": "index.js",
+  "author": "Nobody",
+  "license": "MIT",
+  "dependencies": {
+    "twitter-node-client": "^0.0.6"
+  }
+}
